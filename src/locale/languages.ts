@@ -7,6 +7,7 @@ interface Language {
 export enum AppLanguage {
   en = 'en',
   ca = 'ca',
+  cs = 'cs',
   de = 'de',
   es = 'es',
   fi = 'fi',
@@ -32,6 +33,7 @@ interface AppLanguageConfig {
 export const APP_LANGUAGES: AppLanguageConfig[] = [
   {code2: AppLanguage.en, name: 'English'},
   {code2: AppLanguage.ca, name: 'Català – Catalan'},
+  {code2: AppLanguage.cs, name: 'Čeština - Czech'},
   {code2: AppLanguage.de, name: 'Deutsch – German'},
   {code2: AppLanguage.es, name: 'Español – Spanish'},
   {code2: AppLanguage.fi, name: 'Suomi – Finnish'},
