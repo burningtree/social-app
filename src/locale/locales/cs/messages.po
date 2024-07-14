@@ -1707,7 +1707,7 @@ msgstr "Stáhnout CAR soubor"
 
 #: src/view/com/composer/text-input/TextInput.web.tsx:271
 msgid "Drop to add images"
-msgstr "Přetáhněte sem obrázky pro přidání"
+msgstr "Přetáhni sem obrázky pro přidání"
 
 #: src/view/com/modals/ChangeHandle.tsx:252
 msgid "e.g. alice"
@@ -2808,11 +2808,11 @@ msgstr "Kariéra"
 #: src/screens/StarterPack/StarterPackScreen.tsx:432
 #: src/screens/StarterPack/StarterPackScreen.tsx:443
 msgid "Join Bluesky"
-msgstr "Připojte se na Bluesky"
+msgstr "Připoj se na Bluesky"
 
 #: src/components/StarterPack/QrCode.tsx:56
 msgid "Join the conversation"
-msgstr "Zapojte se do konverzace"
+msgstr "Zapoj se do konverzace"
 
 #: src/screens/Onboarding/index.tsx:21 src/screens/Onboarding/state.ts:89
 msgid "Journalism"
@@ -3049,7 +3049,7 @@ msgstr "Log"
 
 #: src/screens/Deactivated.tsx:214 src/screens/Deactivated.tsx:220
 msgid "Log in or sign up"
-msgstr "Přihlaste se nebo se registrujte"
+msgstr "Přihlaš se nebo se registruj"
 
 #: src/screens/SignupQueued.tsx:155 src/screens/SignupQueued.tsx:158
 #: src/screens/SignupQueued.tsx:184 src/screens/SignupQueued.tsx:187
@@ -3078,11 +3078,11 @@ msgstr "Vypadá to, že jste nepřipnuli žádné kanály! Využijte naše návr
 
 #: src/screens/Home/NoFeedsPinned.tsx:83
 msgid "Looks like you unpinned all your feeds. But don't worry, you can add some below 😄"
-msgstr "Vypadá to, že jste odepnuli všechny kanály. Ale nebojte se, níže si můžete nějaké přidat 😄"
+msgstr "Vypadá to, že jsi odepnul/a všechny kanály. Ale neboj se, níže si můžeš nějaké přidat 😄"
 
 #: src/screens/Feeds/NoFollowingFeed.tsx:37
 msgid "Looks like you're missing a following feed. <0>Click here to add one.</0>"
-msgstr "Vypadá to, že ti chybí následující kanál. <0>Klikněte sem a přidejte ho.</0>"
+msgstr "Vypadá to, že ti chybí následující kanál. <0>Klikni sem a přidej si ho.</0>"
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:254
 msgid "Make one for me"
@@ -4094,7 +4094,7 @@ msgstr "Vysvětlete prosím, proč si myslíte, že tvoje konverzace byla nespr�
 #: src/lib/hooks/useAccountSwitcher.ts:48
 #: src/lib/hooks/useAccountSwitcher.ts:58
 msgid "Please sign in as @{0}"
-msgstr "Přihlaste se jako @{0}"
+msgstr "Přihlaš se jako @{0}"
 
 #: src/view/com/modals/VerifyEmail.tsx:109
 msgid "Please Verify Your Email"
@@ -5089,11 +5089,11 @@ msgstr "Sdílet"
 
 #: src/components/dms/ChatEmptyPill.tsx:37
 msgid "Share a cool story!"
-msgstr "Podělte se o zajímavý příběh!"
+msgstr "Poděl se o zajímavý příběh!"
 
 #: src/components/dms/ChatEmptyPill.tsx:36
 msgid "Share a fun fact!"
-msgstr "Podělte se o zábavný fakt!"
+msgstr "Poděl se o zábavný fakt!"
 
 #: src/view/com/profile/ProfileMenu.tsx:377
 #: src/view/com/util/forms/PostDropdownBtn.tsx:461
@@ -5261,11 +5261,11 @@ msgstr "Přihlásit se jako…"
 
 #: src/components/dialogs/Signin.tsx:75
 msgid "Sign in or create your account to join the conversation!"
-msgstr "Přihlaste se nebo si vytvořte účet a zapojte se do konverzace!"
+msgstr "Přihlaš se nebo si vytvoř účet a zapoj se do konverzace!"
 
 #: src/components/dialogs/Signin.tsx:46
 msgid "Sign into Bluesky or create a new account"
-msgstr "Přihlaste se na Bluesky nebo si vytvořte nový účet"
+msgstr "Přihlaš se na Bluesky nebo si vytvoř nový účet"
 
 #: src/view/screens/Settings/index.tsx:130
 #: src/view/screens/Settings/index.tsx:134
@@ -5285,7 +5285,7 @@ msgstr "Registrace"
 
 #: src/view/shell/NavSignupCard.tsx:47
 msgid "Sign up or sign in to join the conversation"
-msgstr "Zaregistrujte se nebo se přihlaste a zapojte se do konverzace"
+msgstr "Zaregistruj se nebo se přihlaš a zapoj se do konverzace"
 
 #: src/components/moderation/ScreenHider.tsx:97
 #: src/lib/moderation/useGlobalLabelStrings.ts:28
@@ -5349,7 +5349,7 @@ msgstr "Něco se pokazilo, zkuste to prosím znovu."
 
 #: src/App.native.tsx:98 src/App.web.tsx:80
 msgid "Sorry! Your session expired. Please log in again."
-msgstr "Omlouváme se! Tvoje relace vypršela. Přihlas se prosím znovu."
+msgstr "Omlouváme se! Tvoje relace vypršela. Přihlaš se prosím znovu."
 
 #: src/view/screens/PreferencesThreads.tsx:69
 msgid "Sort Replies"
@@ -5446,7 +5446,7 @@ msgstr "Odebírat"
 
 #: src/screens/Profile/Sections/Labels.tsx:201
 msgid "Subscribe to @{0} to use these labels:"
-msgstr "Chcete-li tyto štítky používat, přihlaste se k odběru @{0}:"
+msgstr "Chcete-li tyto štítky používat, přihlaš se k odběru @{0}:"
 
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:229
 msgid "Subscribe to Labeler"
@@ -6834,7 +6834,7 @@ msgstr "Jsi ve frontě"
 #: src/screens/Deactivated.tsx:89
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:54
 msgid "You're logged in with an App Password. Please log in with your main password to continue deactivating your account."
-msgstr "Jsi přihlášen pomocí hesla pro aplikace. Pro pokračování v deaktivaci svého účtu se prosím přihlas svým hlavním heslem."
+msgstr "Jsi přihlášen pomocí hesla pro aplikace. Pro pokračování v deaktivaci svého účtu se prosím přihlaš svým hlavním heslem."
 
 #: src/screens/Onboarding/StepFinished.tsx:236
 msgid "You're ready to go!"
